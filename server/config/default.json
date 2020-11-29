@@ -1,1 +1,4 @@
-{"PORT" : 5000 }
+{"PORT" : 5000 ,
+"DBurl" : "mongodb+srv://olafCloud:12378A_@jscloud.nlxhz.mongodb.net/myCloud?retryWrites=true&w=majority",
+"token-key": "token-key"
+}
